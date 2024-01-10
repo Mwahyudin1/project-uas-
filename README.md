@@ -5,6 +5,6 @@
 # Dosen : Pak Ananto
 # kelompok 1
 # anggota :
-# 1. dean pratama saputra
-# 2. m wahyudin ardiansyah
-# 3. m dzikri hidayat 
+# 1. Dean pratama saputra
+# 2. M wahyudin ardiansyah
+# 3. M.dzikri hidayat 
